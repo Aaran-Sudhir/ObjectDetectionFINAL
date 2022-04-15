@@ -1,0 +1,34 @@
+{
+  "expo": {
+    "name": "c-93",
+    "slug": "snack-a19235dc-7655-4d71-bf1c-b2436810aea1",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "od"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "com.aaransudhir.snacka19235dc76554d71bf1cb2436810aea1"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
